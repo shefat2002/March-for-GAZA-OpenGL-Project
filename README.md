@@ -37,7 +37,7 @@ Make sure the following are installed on your PC:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/march-for-gaza.git
+   git clone [https://github.com/your-username/march-for-gaza.git](https://github.com/shefat2002/March-for-GAZA-OpenGL-Project.git)
    ```
 
 2. **Open the project in VS Code.**
