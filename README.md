@@ -73,14 +73,11 @@ This project is released under the [MIT License](LICENSE) for educational and aw
 ## 🖼️ Screenshots
 
 ### 🖼️ Scene 1 – GAZA Text with Blood  
-A symbolic representation of the word "GAZA" with blood dripping and scattered blood in the background.  
 ![Scene 1](screenshots/1.jpg)
 
 ### 🏚️ Scene 2 – Destroyed City of Gaza  
-Shows broken buildings, burnt vehicles, and smoke—symbolizing brutal destruction by Israeli airstrikes.  
 ![Scene 2](screenshots/2.jpg)
 
 ### 🗺️ Scene 3 – Palestine Map and Flag  
-Displays the red map of Palestine, the green Gaza Strip, the flag of Palestine, and the slogan:  
 **"From the river, to the sea, Palestine will be free."**  
 ![Scene 3](screenshots/3.jpg)
