@@ -54,20 +54,6 @@ Make sure the following are installed on your PC:
 
 ---
 
-## 🙋 Author
-
-**👤 Md Shefat Al Mahmud**  
-4th Year Student, Dept. of CSE  
-Daffodil International University
-
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE) for educational and awareness purposes. Feel free to fork and build upon it to spread the message further.
-
----
-
 🇵🇸 **Free Palestine.**
 
 ## 🖼️ Screenshots
@@ -81,3 +67,19 @@ This project is released under the [MIT License](LICENSE) for educational and aw
 ### 🗺️ Scene 3 – Palestine Map and Flag  
 **"From the river, to the sea, Palestine will be free."**  
 ![Scene 3](screenshots/3.jpg)
+
+---
+
+## 🙋 Author
+
+**👤 Md Shefat Al Mahmud**  
+4th Year Student, Dept. of CSE  
+Daffodil International University
+
+---
+
+## 📜 License
+
+This project is released under the [MIT License](LICENSE) for educational and awareness purposes. Feel free to fork and build upon it to spread the message further.
+
+---
