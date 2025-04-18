@@ -44,7 +44,7 @@ Make sure the following are installed on your PC:
 
 3. **Make sure MinGW is added to your system PATH.**
 
-4. **Install the `Run++` extension** from the VS Code Marketplace.
+4. **Install the `Run++` extension** from the VS Code Marketplace.([Install here](https://marketplace.visualstudio.com/items?itemName=AlbinBD.run))
 
 5. **Open `main.cpp` in the editor.**
 
