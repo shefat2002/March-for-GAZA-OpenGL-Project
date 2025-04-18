@@ -15,7 +15,7 @@ The project contains **three visual scenes**:
 2. **Scene 2 – Destroyed City of Gaza:**  
    Shows broken buildings, burnt vehicles, and smoke—symbolizing brutal destruction by Israeli airstrikes.
 
-3. **Scene 3 – Palestine Map and Flag:**  
+3. **Scene 3 – March for Gaza poster including Palestine Map and Flag:**  
    Displays the red map of Palestine, the green Gaza Strip, the flag of Palestine, and the slogan:  
    *"From the river, to the sea, Palestine will be free."*
 
@@ -64,7 +64,7 @@ Make sure the following are installed on your PC:
 ### 🏚️ Scene 2 – Destroyed City of Gaza  
 ![Scene 2](screenshots/2.jpg)
 
-### 🗺️ Scene 3 – Palestine Map and Flag  
+### 🗺️ Scene 3 – March for Gaza poster including Palestine Map and Flag  
 **"From the river, to the sea, Palestine will be free."**  
 ![Scene 3](screenshots/3.jpg)
 
